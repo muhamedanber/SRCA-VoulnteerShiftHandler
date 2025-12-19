@@ -149,6 +149,14 @@ This repository exists to document the system
 
 ---
 
+##🔹 Development Notes
+
+This project was developed using a heavily AI-assisted workflow, combined with hands-on coding by me.
+Core parts of the system were written manually, while AI tools were used throughout development to help generate, refine, debug, refactor, and document code. The overall structure, feature set, and operational logic were guided by real-world volunteer and EMS requirements, with AI acting as an accelerator rather than a replacement.
+The final stage focused on code cleanup, readability, and adding comments/notes, with AI support to improve maintainability.
+
+---
+
 ## Confidentiality Notice
 
 This project is for **internal use** within the
