@@ -1,7 +1,7 @@
 # Volunteer Shift Scheduling Optimizer
 
 **Saudi Red Crescent Authority – Madinah Volunteer Affairs Department**
-**Internal Use Only**
+**Internal Use Only (Update: Discontinued)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
